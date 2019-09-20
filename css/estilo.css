@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(115, 115, 255);
+}
+
+section {
+    background-color: rgb(255, 220, 220);
+    width: 450px;
+    margin: 0 auto;
+    padding: 5px;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px black;
+}
+
+#flista {
+    width: 180px;
+}
+
+h1, p {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#botao {
+    width: 100px;
+    height: 25px;
+    text-transform: uppercase;
+}
